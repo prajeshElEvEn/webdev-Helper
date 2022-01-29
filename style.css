@@ -5,7 +5,7 @@
 }
 
 .container {
-  max-width: 400px;
+  width: 400px;
   background-color: #1e1e30;
   font-family: 'Poppins', sans-serif;
   color: #5ca2ff;
