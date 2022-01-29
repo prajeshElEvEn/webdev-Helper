@@ -1,5 +1,5 @@
 {
-    "manifest_version": "2",
+    "manifest_version": 2,
     "name": "webdev Helper",
     "version": "1.0.0",
     "description": "Quick launch several help documentations of several web frameworks.",
