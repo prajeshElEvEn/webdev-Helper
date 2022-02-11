@@ -3,10 +3,14 @@
     "name": "webdev Helper",
     "version": "1.0.0",
     "description": "Quick launch several help documentations of several web frameworks.",
-    "icons": {"128": "icon128.png"},
-    "browser_action": {
-        "default_icon": "icon48.png",
-        "default_popup": "index.html"
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_logo": "icon48.png"
     },
     "permissions": ["activeTab"]
 }
